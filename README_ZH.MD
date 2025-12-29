@@ -300,7 +300,7 @@ graph TD
 
 ## 📖 文档
 
-- [开发者深入指南](https://github.com/GreatScottyMac/roo-code-memory-bank/blob/main/developer-primer.md)
+- [开发者深入指南](https://github.com/GreatScottyMac/roo-code-memory-bank/blob/main/developer-primer-zh.md)
 - [更新日志](https://github.com/GreatScottyMac/roo-code-memory-bank/blob/main/updates.md)
 
 ---
