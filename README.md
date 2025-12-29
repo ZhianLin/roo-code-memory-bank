@@ -12,7 +12,8 @@
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-lightgrey.svg)](https://github.com/GreatScottyMac/roo-code-memory-bank)
 
 </div>
-[中文ReadMe](/README_ZH.MD)
+
+[中文ReadMe](/README_ZH.MD) 
 ## 🎯 Overview
 
 Roo Code Memory Bank solves a critical challenge in AI-assisted development: **maintaining context across sessions**. By providing a structured memory system integrated with VS Code, it ensures your AI assistant maintains a deep understanding of your project across sessions.
